@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Arti Nighote !
+<p align="center">
+  <img src="https://github.com/arti2441/arti2441/blob/main/photo.jpg" width="700">
+</p>
+
+🎓 3rd Year AI & Data Science Student  
+💻 Passionate about Data Science and Machine Learning  
+🌱 Currently learning and building projects
 
 <!--
 **arti2441/arti2441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
