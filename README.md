@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Arti Nighote !
 <p align="center">
-  <img src="https://github.com/arti2441/arti2441/blob/main/photo.jpg" width="700">
+  <img src="https://pin.it/7vfeRbaQw" width="700">
 </p>
 
 🎓 3rd Year AI & Data Science Student  
